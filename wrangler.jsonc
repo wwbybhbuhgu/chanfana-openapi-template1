@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "chanfana-openapi-template1",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "op enapi-template-db",
+      "database_id": "23d566ff-94fc-4510-a8f2-9c4f9b67acb6"
+    }
+  ]
+}
